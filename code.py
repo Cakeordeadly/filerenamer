@@ -13,6 +13,7 @@ def readcsv(filename):
     
     ifile.close()
     return a
+    
 
 folder_name = "C:/Users/Chris/Documents/Bin/"
 with open("C:/Users/Chris/Documents/py/inlist.csv","r") as f:
